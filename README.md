@@ -1,2 +1,1 @@
-# CSC340-API-Assignment
-api assignment code
+# csc340-rest-api-demo
